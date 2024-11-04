@@ -1,0 +1,13 @@
+.idea/
+
+cmake-build-debug/
+cmake-build-release/
+
+*.o
+*.obj
+*.log
+*.exe
+*.dll
+*.so
+*.a
+*.lib
